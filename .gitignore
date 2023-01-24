@@ -1,0 +1,6 @@
+config.py
+database.db
+env
+instance
+bot.log
+__pycache__
