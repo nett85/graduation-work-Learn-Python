@@ -36,7 +36,3 @@ if __name__=="__main__":
     app.run()
 
 
-
-    # chat_id=chat_id, username=username, firstname=firstname, surname=surname
-    # list_user=list_user
-     # list_user = users.query.all() 
